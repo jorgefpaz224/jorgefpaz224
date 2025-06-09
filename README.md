@@ -1,5 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Jorge Francisco Paz</h1>
-<h3 align="center">🎓 Computer Systems Engineering student at UNITEC, currently in my final year. 💼 Passionate about **Project Management**, **UI/UX design**, and **frontend development** for web and mobile applications. 🚀 Actively preparing to grow in the field of software development, with a strong focus on mastering **agile methodologies** such as Scrum and Kanban, aiming to continue developing as a **Project Manager**. 🔍 Eager to learn, collaborate, and contribute to projects that promote teamwork, innovation, and continuous improvement.</h3>
+<h3 align="center">🎓 Computer Systems Engineering student at UNITEC, currently in my final year.
+  💼 Passionate about **Project Management**, **UI/UX design**, and **frontend development** for web and mobile applications.
+  🚀 Actively preparing to grow in the field of software development, with a strong focus on mastering **agile methodologies** such as Scrum and Kanban, aiming to continue developing as a **Project Manager**.
+  🔍 Eager to learn, collaborate, and contribute to projects that promote teamwork, innovation, and continuous improvement.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
