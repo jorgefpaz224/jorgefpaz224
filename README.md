@@ -1,8 +1,58 @@
-<h1 align="center">Hi there 👋, I'm Jorge Francisco Paz</h1>
-<h3 align="center">🎓 Computer Systems Engineering student at UNITEC, currently in my final year.
-  💼 Passionate about **Project Management**, **UI/UX design**, and **frontend development** for web and mobile applications.
-  🚀 Actively preparing to grow in the field of software development, with a strong focus on mastering **agile methodologies** such as Scrum and Kanban, aiming to continue developing as a **Project Manager**.
-  🔍 Eager to learn, collaborate, and contribute to projects that promote teamwork, innovation, and continuous improvement.</h3>
+<h1 align="center"># 👋 ¡Hola! Soy Jorge Paz</h1>
+<h3 align="center">
+🎓 Estudiante de último año de **Ingeniería en Sistemas Computacionales** en UNITEC.  
+💼 Apasionado por el **Project Management**, el diseño **UI/UX** y el desarrollo **frontend moderno**.  
+🚀 En constante aprendizaje sobre **metodologías ágiles** (Scrum, Cascada) y **tecnologías emergentes**.
+
+---
+
+## 🛠️ Tecnologías y herramientas
+
+- **Frontend:** HTML, CSS, JavaScript, Tailwind, React
+- **Diseño UI/UX:** Figma, Canva
+- **Control de versiones:** Git & GitHub
+- **Backend básico:** Node.js, Express
+- **Hardware & IoT:** Arduino, sensores, Firebase (realtime database)
+- **Metodologías:** Scrum, Cascada, enfoque ágil
+
+---
+
+## 📌 Proyectos destacados
+
+### 🔹 E-Recycle
+> Plataforma de reciclaje y reventa de dispositivos electrónicos  
+`Node.js + MySQL + HTML/CSS`
+
+### 🔹 StyleAI
+> App de realidad aumentada para visualizar ropa usando medidas corporales con IA  
+`Frontend + TensorFlow + AR.js`
+
+### 🔹 Visualizador de Mensajes Web
+> App interactiva con **SpeechSynthesis API** y conexión a Firebase en tiempo real  
+`HTML + JS + Firebase`
+
+---
+
+## 🌱 ¿Qué estoy aprendiendo ahora?
+
+- Firebase avanzado (conexiones IoT desde Arduino)
+- Integración de APIs web modernas (voz, cámara, geolocalización)
+- Desarrollo de apps móviles híbridas
+- Automatización de tareas con Python y JavaScript
+
+---
+
+## 📫 ¡Conectemos!
+
+- LinkedIn: [linkedin.com/in/jorgefps](https://linkedin.com/in/jorgefps)
+- Portafolio (próximamente)
+- Email: jorgefps@email.com
+
+---
+
+> 💡 *"La tecnología no solo resuelve problemas, también crea oportunidades de cambio."*
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
